@@ -1,0 +1,12 @@
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\bin\Debug\PCTO_STS.exe.config
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\bin\Debug\PCTO_STS.exe
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\bin\Debug\PCTO_STS.pdb
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.Form1.resources
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.frmGame.resources
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.frmRegister.resources
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.Properties.Resources.resources
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.csproj.GenerateResource.cache
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.csproj.CoreCompileInputs.cache
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.exe
+C:\Users\f.piumatti.1365\source\repos\PCTO_STS\PCTO_STS\obj\Debug\PCTO_STS.pdb
